@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GLM</string>
+    <string name="tab_text_1">Shopping list</string>
+    <string name="tab_text_2">Category</string>
+    <string name="tab_text_3">Product list</string>
+    <string name="tab_text_add">Add shopping list</string>
+</resources>
